@@ -23,4 +23,8 @@ The main reason for doing the software testing is that to make sure our final pr
 
 ### 1. Integration testing:
 
-First of all integration means bringing the small particles together to make a joined new one. On the other hand differenciation means breaking the bigger particels into small ones. So here in integration testing we will be joining different parts and testing the whole. For example in a ecommerce website there will be individual compenents like authentication , product cataloge, shopping cart, payments and we combine all of these together and then test if it works as expected when integrated. 
+First of all integration means bringing the small particles together to make a joined new one. On the other hand differenciation means breaking the bigger particels into small ones. So here in integration testing we will be joining different parts and testing the whole. For example in a ecommerce website there will be individual compenents like authentication , product cataloge, shopping cart, payments and we combine all of these together and then test if it works as expected when integrated.
+
+### 2. Regression testing
+
+The term regression in mathematics refers to the unintended changes that occures on a variable while changing a dependent variable. So here we will be testing to make sure everything that tested before is working properly when we make some change to a particular section. For example if we have a filter function in dress shop where we use the function to filter the products according to the size, brand colors. And we recevied feedback from user that the function is not working for the color section and then we fix the issue and test the fix. Now we do regression testing through out the filtering function to make sure that other filtering things are also working as it worked before. 
