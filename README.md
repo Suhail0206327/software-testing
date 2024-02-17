@@ -18,3 +18,9 @@ Do you know the story behind the first bug. In 1940s a bug was entered to the co
 ## Why do we need to do software testing?
 
 The main reason for doing the software testing is that to make sure our final product is ready to use without major problems. We can see even the operating system softwares get some bugs and the team fix those using a software update. Yeah so we can do minor fixes but it should not be a big one that may effect the functionality of the final products. For example imagine that we build a software for a rocket and the rocket is launched and moved out of earths gravity and later we found a problem in the software that effect its functionality. So all the efforts, energy , expenses everything is in awry because of not testing the functionality of the software. So it will be better to test our software propertly and double checking everything is okay. It will help to save a lot of money and make our efforts count.
+
+## Types of software testing
+
+### 1. Integration testing:
+
+First of all integration means bringing the small particles together to make a joined new one. On the other hand differenciation means breaking the bigger particels into small ones. So here in integration testing we will be joining different parts and testing the whole. For example in a ecommerce website there will be individual compenents like authentication , product cataloge, shopping cart, payments and we combine all of these together and then test if it works as expected when integrated. 
