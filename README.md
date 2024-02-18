@@ -25,6 +25,23 @@ The main reason for doing the software testing is that to make sure our final pr
 
 First of all integration means bringing the small particles together to make a joined new one. On the other hand differenciation means breaking the bigger particels into small ones. So here in integration testing we will be joining different parts and testing the whole. For example in a ecommerce website there will be individual compenents like authentication , product cataloge, shopping cart, payments and we combine all of these together and then test if it works as expected when integrated.
 
-### 2. Regression testing
+### 2. Regression testing:
 
 The term regression in mathematics refers to the unintended changes that occures on a variable while changing a dependent variable. So here we will be testing to make sure everything that tested before is working properly when we make some change to a particular section. For example if we have a filter function in dress shop where we use the function to filter the products according to the size, brand colors. And we recevied feedback from user that the function is not working for the color section and then we fix the issue and test the fix. Now we do regression testing through out the filtering function to make sure that other filtering things are also working as it worked before. 
+### 3. Load testing:
+In load testing we will be testing our application under high usage. That is testing the behaviour of our app when lot of users are using the app at the same time and analyising how our software is behaving. To site an example, in a banking application we have to test all the functionalities under high usage and make sure that everything is working properly without any lag. This load testing is a type of performance testing. That is testing the performance in different conditions and load testing is a way to test under high load. There are other performance testing as well like stress testing, endurance testing ect..
+
+### 4. Security testing: 
+In security testing we will be testing how secure our app is . Security testing is necessary to protect our data and resources from unknown intruders. And we will make sure that there is no loop holes left. 
+#### Principle of Security Testing:
+Below are the six basic principles of security testing:
+
+Confidentiality
+Integrity
+Authentication
+Authorization
+Availability
+Non-repudiation 
+(geeksforgeeks)
+
+There are different type of security testings like Vulnerability scanning, risk assesment, security scanning , peniteration testing etc.... Lets dive more into peniteration testing. 
