@@ -45,3 +45,7 @@ Below are the six basic principles of security testing:
 (geeksforgeeks)
 
 There are different type of security testings like Vulnerability scanning, risk assesment, security scanning , peniteration testing etc.... Lets dive more into peniteration testing. 
+
+## Peniteration testing 
+
+It is also called as pen testing. In general peniteration testing is a method to analys the security of computer sytems, web applicaitons or networks by stimulating some real world attacks. The main objective is to find the vulnerable entry points and security weakness of the system
