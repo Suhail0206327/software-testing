@@ -36,12 +36,12 @@ In security testing we will be testing how secure our app is . Security testing 
 #### Principle of Security Testing:
 Below are the six basic principles of security testing:
 
-Confidentiality
-Integrity
-Authentication
-Authorization
-Availability
-Non-repudiation 
+* Confidentiality
+* Integrity
+* Authentication
+* Authorization
+* Availability
+* Non-repudiation 
 (geeksforgeeks)
 
 There are different type of security testings like Vulnerability scanning, risk assesment, security scanning , peniteration testing etc.... Lets dive more into peniteration testing. 
