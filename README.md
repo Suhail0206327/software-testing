@@ -1,5 +1,7 @@
-# software-testing
-app-development-foundation-research
+# Software-testing
+
+## Introduction
+ This is a brief introduction to software testing. The end goal for the reader is to make an overview of what is software testing to the reader. The necessity of software testing is to make our products complete and to protect them from vulnerabilities. This was not a serious issue in the early times but now, software testing is an essential part of the software cycle.  
 
 ## What is software testing?
 
@@ -103,3 +105,6 @@ public class IPRangePortScanner {
 }
 
 This is doing the same thing as above just printing the ip address in the messages.
+
+## Conclusion 
+So in conclusion software testing is the process that includes verification and validation of our software. There are different types of software testing. By reading these articles I hope the reader can get an idea of what software testing is. I tried to explain it as simple as possible. 
